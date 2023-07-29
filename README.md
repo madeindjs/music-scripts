@@ -1,6 +1,6 @@
 # Music scripts
 
-My music scripts to handle my big local library.
+My bash scripts to handle my big local musics library.
 
 ## `music-library-export.sh`
 
@@ -12,6 +12,8 @@ Just move in you music library folder and run the script to copy you audio file 
 
 - the loseless files will be converted to your desired format
 - the lossy files will be copied as is
+
+[see manpage](./music-library-export.md)
 
 ## `music-generate-m3u-from-genre.sh`
 
